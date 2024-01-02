@@ -1,0 +1,3 @@
+E:/Programming/C Programming/Snow data tirol/c-file-handling-snow-data-tirol/cmake-build-debug/CMakeFiles/c_file_handling_snow_data_tirol.dir
+E:/Programming/C Programming/Snow data tirol/c-file-handling-snow-data-tirol/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Programming/C Programming/Snow data tirol/c-file-handling-snow-data-tirol/cmake-build-debug/CMakeFiles/rebuild_cache.dir
